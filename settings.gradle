@@ -1,0 +1,3 @@
+rootProject.name = "NicePushVideoDemo"
+include ':app'
+include ':liveRtmpPushSDK'
